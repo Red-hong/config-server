@@ -1,4 +1,4 @@
-env: renhongweiasdfasdf
+env: asdads
 spring:
   rabbitmq:
     host: 47.98.252.206

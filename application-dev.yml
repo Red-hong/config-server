@@ -1,4 +1,4 @@
-env: renhongwei
+env: renhongweiasdfasdf
 spring:
   rabbitmq:
     host: 47.98.252.206

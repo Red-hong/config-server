@@ -1,4 +1,4 @@
-env: renhongweidas
+env: renhongweidassadfsadf
 spring:
   rabbitmq:
     host: 47.98.252.206

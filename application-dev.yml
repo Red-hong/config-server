@@ -1,4 +1,4 @@
-env: wfuck21
+env: wfuck21sadfsadf
 spring:
   rabbitmq:
     host: 47.98.252.206

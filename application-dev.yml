@@ -1,4 +1,4 @@
-env: test22
+env: testsadfasdf
 spring:
   rabbitmq:
     host: 47.98.252.206
